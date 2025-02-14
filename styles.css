@@ -64,7 +64,6 @@ main {
 }
 
 .card-front {
-    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,7 +71,6 @@ main {
 }
 
 .card-back {
-    background: #fff5f5;
     color: #333;
     transform: rotateY(180deg);
     padding: 20px;
